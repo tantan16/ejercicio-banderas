@@ -1,0 +1,50 @@
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
+.maincontainer{
+    background-color: #ffffff;
+   
+}
+    .bandera{
+        display: inline-block;
+        width: auto;
+        height: 200px;
+        border: 2px solid black;
+        margin-bottom: 50px;
+        margin-left: 600px;
+    }
+        .verde{
+            width: 100px;
+            height: 200px;
+            display: inline-block;
+            background-color: #006847;
+        }
+        .blanco{
+            display: inline-block;
+            width: 100px;
+            height: 200px;
+           
+        background-color: #FFFFFF;
+        }
+        .rojo{
+            display: inline-block;
+            width: 100px;
+            height: 200px;
+            background-color:#CE1126 ;  
+        }
+        .azul{
+            display: inline-block;
+            width: 100px;
+            height: 200px;
+            background-color:#002395 ;  
+        }
+
+             
